@@ -101,10 +101,3 @@ while True:
         red_led.value(0)
         green_led.value(1)
         utime.sleep(2)
-    
-    
-
-        
-        
-
-    
