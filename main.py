@@ -1,3 +1,11 @@
+#
+# Pico pump control
+#
+# version 1.0
+#
+# @author: Norbert Babineti
+#
+
 from machine import Pin
 import utime
 
